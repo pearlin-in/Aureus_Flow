@@ -11,6 +11,6 @@ A client-side personal finance management dashboard built to track multi-fund sa
 
 ## Tech Stack
 
-* **Frontend:** React, HTML5, CSS
+* **Frontend:** React, HTML5, CSS, JavaScript
 * **Utilities:** jQuery
 
