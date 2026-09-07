@@ -14,31 +14,3 @@ A client-side personal finance management dashboard built to track multi-fund sa
 * **Frontend:** React, HTML5, CSS
 * **Utilities:** jQuery
 
-## Getting Started
-
-1. Clone the repository:
-```bash
-git clone https://github.com/your-username/aureus-flow.git
-
-```
-
-
-2. Navigate into the project directory:
-```bash
-cd aureus-flow
-
-```
-
-
-3. Install dependencies:
-```bash
-npm install
-
-```
-
-
-4. Run the development server:
-```bash
-npm start
-
-```
